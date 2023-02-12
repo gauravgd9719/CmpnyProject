@@ -1,0 +1,22 @@
+{
+  "name": "cmpnyproject",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravgd9719/CmpnyProject.git"
+  },
+  "author": "Gaurav Dhiman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravgd9719/CmpnyProject/issues"
+  },
+  "homepage": "https://github.com/gauravgd9719/CmpnyProject#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
